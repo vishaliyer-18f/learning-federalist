@@ -12,15 +12,15 @@ subnav:
     href: '#section-two'
 ---
 
-# Section one
+# Section un
 
 This is some content.
 
-## Section two
+## Section dos
 
 This is some more content.
 
-### Section three
+### Section tres
 
 This is some more content.
 
